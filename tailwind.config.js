@@ -3,7 +3,7 @@ export default {
   content: [],
   theme: {
     colors: {
-      primary: '33f5ff',
+      primary: '#33F5FF',
     },
     extend: {},
   },
